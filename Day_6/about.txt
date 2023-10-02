@@ -1,0 +1,21 @@
+<< *SEO* >>
+SEO stands for Search Engine Optimization which is the practice of optimizing a website or online content to improve its visibility and ranking in search engine results pages(SERPs). The primary goal of SEO is to attract organic(non-paid) traffic to a website by ensuring that it appears prominently in search results for relevant queries.
+
+<< *Core Web Vitals* >>
+Core Web Vitals are a set of Specific website performance metrics that Google uses to evalute the user experience of web pages. These metrics are related to how quickly a web page loads and becomes interactive, as well as how stable the page is during loading. Core Web Vitals are important for SEO because Google considers them when ranking websites in search results.
+
+There are three main Core Web Vitals metrices, and they are as follows:
+
+1. Largest Contentful Paint(LCP): LCP measures the loading performance of a web page. It specifically looks at the time it takes for the largest visible element (often an image or block of text) to appear on the screen. To provide a good user experience, LCP should occur within 2.5 seconds of the page starting to load.
+
+2. First Input Delay(FID): FID measures interactivity and responsiveness. It assesses the delay between a user's first interaction (such as clicking a link or button) and the browser's response. For a positive user experience, FID should be less than 100 milliseconds.
+
+3. Cumulative Layout Shift (CLS): CLS measures the visual stability of a web page during loading. It quantifies how much elements on the page move or shift around unexpectedly. A lower CLS score indicates a more stable and user-friendly experience.
+
+
+
+
+<< **Conclusion** >>
+SEO (Search Engine Optimization): SEO is about optimizing websites to improve their visibility in search engine results. It aims to attract organic (non-paid) traffic by ensuring a strong presence in relevant search queries.
+
+Core Web Vitals: These are vital performance metrics used by Google to assess user experience. They include LCP (loading speed), FID (interactivity), and CLS (visual stability) for a seamless browsing experience. Optimizing these metrics is crucial for SEO.

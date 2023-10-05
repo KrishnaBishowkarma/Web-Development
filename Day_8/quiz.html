@@ -1,0 +1,41 @@
+<!-- Without using <br> tag, write a vertically aligned form asking for Name, City, and Pincode of a user. -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Form -HTML</title>
+    <style>
+      .form-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .form-group {
+        margin: 10px;
+        text-align: center;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="form-container">
+      <div class="form-group">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" />
+      </div>
+      <div class="form-group">
+        <label for="city">City:</label>
+        <input type="text" id="city" name="city" />
+      </div>
+      <div class="form-group">
+        <label for="pincode">Pincode:</label>
+        <input type="text" id="pincode" name="pincode" />
+      </div>
+    </div>
+  </body>
+
+</html>
